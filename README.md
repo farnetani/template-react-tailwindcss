@@ -24,6 +24,8 @@ Este projeto foi criado com [Create React App](https://github.com/facebook/creat
 Template LIMPO para ser utilizado nas aplicações com React.
 
 <br>
+![Exemplo CSS com Tailwind](./github/app.png)
+<br>
 
 ## :wrench: Instalação e Uso
 
