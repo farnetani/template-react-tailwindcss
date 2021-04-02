@@ -53,6 +53,26 @@ Para gerar o build da aplicação.
 
 <br>
 
+## Outros Templates:
+
+**[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)**
+
+Template para minhas aplicações em React com Eslint + Prettier + Jest sem utilizar o create-react-app.
+
+**[template-react-sem-css](https://github.com/farnetani/template-react-sem-css)**
+
+Template com Create-React-App + Prettier + outras configurações porém sem a instalação do tailwindCSS ou styled-components, ficando livre pra instalar o que desejar, e também não está com SASS.
+
+**[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)**
+
+Template com create-react-app + prettier + jest + tailwindcss
+
+**[template-react-styled-components](https://github.com/farnetani/template-react-styled-components)**
+
+Template criado do zero com create-react-app e já configurado para utilizar o styled-components.
+
+<br>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
