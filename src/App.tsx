@@ -1,5 +1,4 @@
 import React from 'react'
-import './tailwind.output.css'
 import './App.css'
 
 function App() {
