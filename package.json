@@ -18,8 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src --max-warnings=0",
-    "build:tailwind": "tailwindcss build src/styles/index.scss -o src/styles/tailwind.output.scss",
-    "build:css": "postcss src/styles/index.scss -o src/styles/tailwind.output.scss",
+    "build:tailwind": "tailwindcss build src/styles/global.scss -o src/styles/tailwind.output.scss",
+    "build:css": "postcss src/styles/global.scss -o src/styles/tailwind.output.scss",
     "prestart": "npm run build:tailwind",
     "prebuild": "npm run build:tailwind"
   },

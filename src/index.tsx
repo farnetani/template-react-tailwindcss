@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './styles/global.scss'
 import './styles/tailwind.output.scss'
+import './styles/index.scss'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 

@@ -72,6 +72,20 @@ Template com create-react-app + prettier + jest + tailwindcss
 Template criado do zero com create-react-app e já configurado para utilizar o styled-components.
 
 <br>
+## Obs:
+
+Rodar apenas isso que é o que falta para o meu template tailwind+react
+
+```
+yarn add node-sass -D
+yarn add postcss-cli autoprefixer -D
+```
+
+Editar o package.json
+```
+"build:css": "postcss src/styles/index.scss -o src/styles/tailwind.output.scss "
+```
+<br>
 
 ## :memo: Licença
 
